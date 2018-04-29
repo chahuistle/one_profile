@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 # Based on: https://gist.github.com/weibeld/f3b6e6187029924a9b3d
 # the only thing I added was to change color if received exit code was not 0
 
