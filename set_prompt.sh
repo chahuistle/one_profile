@@ -26,3 +26,7 @@ set_prompt() {
   # Set colour of prompt
   PS1="\[$color\]$PS1"
 }
+
+# set vim preferences
+echo "syntax on" > ~/.vimrc
+echo "colorscheme desert" >> ~/.vimrc
